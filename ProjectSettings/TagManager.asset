@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: "Bra\xE7o 2.1"
+    uniqueID: 961374751
+    locked: 0
+  - name: Arma
+    uniqueID: 1883742917
+    locked: 0
+  - name: Mao 2
+    uniqueID: 342350147
+    locked: 0
+  - name: Perna 2
+    uniqueID: 3452534823
+    locked: 0
+  - name: Perna 1
+    uniqueID: 1232440235
+    locked: 0
+  - name: Corpo
+    uniqueID: 2360509941
+    locked: 0
+  - name: "Cabe\xE7a"
+    uniqueID: 4018397811
+    locked: 0
+  - name: "Bra\xE7o 1.1"
+    uniqueID: 1951870109
+    locked: 0
+  - name: Mao 1
+    uniqueID: 2819612071
+    locked: 0
